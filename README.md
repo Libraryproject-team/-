@@ -11,9 +11,10 @@
 > ##### 江潇：
 > 归还函数的编写、对读者信息和图书信息进行改写
 - #### 甘特图
+![avatar](https://upload-images.jianshu.io/upload_images/7592500-5c7f8b6e9537658d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 - #### 注意事项
 > 1. 为了降低耦合性，每种功能尽量写成函数
 > 2. 声明变量尽量不要与其他函数的变量冲突
 > 3. 环境尽量使用一致，都使用VS2017，编译器版本统一
-- ####流程图
-
+- #### 流程图
+![avatar](https://upload-images.jianshu.io/upload_images/7592500-cfbbececcb93d16c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
