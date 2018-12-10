@@ -18,3 +18,6 @@
 ![avatar](https://upload-images.jianshu.io/upload_images/7592500-5c7f8b6e9537658d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 - #### 流程图
 ![avatar](https://upload-images.jianshu.io/upload_images/7592500-cfbbececcb93d16c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+- #### 需要改进的地方
+> 1. 函数名不是不是很明确，可读性还不够高
+> 2. 查询可以用正则匹配更多结果
