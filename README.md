@@ -14,7 +14,7 @@
 > 1. 为了降低耦合性，每种功能尽量写成函数
 > 2. 声明变量尽量不要与其他函数的变量冲突
 > 3. 环境尽量使用一致，都使用VS2017，编译器版本统一
-> 4. 尽量都写成硬代码，使用文件读取
+> 4. 尽量都写成软代码，使用文件读取
 - #### 甘特图
 ![avatar](https://upload-images.jianshu.io/upload_images/7592500-5c7f8b6e9537658d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 - #### 流程图
